@@ -3,7 +3,7 @@
     <div class="container wrapper">
         <div class="main_p1">
             <h1> Your Short-Term Rentals Assistant </h1>
-            <h2> Start and increase your profits monthly by more than <span> $250 </span> </h2>
+            <h2> Start and increase your profits monthly by more than <span> $800 </span> </h2>
 
             <ul class="features-1 ">
 
@@ -15,11 +15,11 @@
 
             <!-- Buy it NOW - Button -->
             <div class="buttons" id="buttons">
-                <a class="small-buy-button" href="#"> </a>
+                <a class="small-buy-button" href="#newsletter" data-toggle="modal"> </a>
 
                 <div class="divider-button"></div>
 
-                <a class="small-trial-button" href="#"> </a>
+                <a class="small-trial-button" href="#newsletter" data-toggle="modal"> </a>
 
             </div>
         </div>
@@ -98,9 +98,9 @@
                             </ul>
                             <!--   Buy it NOW - Button   -->
                             <div class="buttons">
-                                <a class="small-buy-button" href="#"> </a>
+                                <a class="small-buy-button" href="#newsletter" data-toggle="modal"> </a>
                                 <div class="divider-button"></div>
-                                <a class="small-trial-button" href="#"> </a>
+                                <a class="small-trial-button" href="#newsletter" data-toggle="modal"> </a>
                             </div>
                         </div>
                     </li>
@@ -122,9 +122,9 @@
                             </ul>
                             <!--   Buy it NOW - Button   -->
                             <div class="buttons">
-                                <a class="small-buy-button" href="#"> </a>
+                                <a class="small-buy-button" href="#newsletter" data-toggle="modal"> </a>
                                 <div class="divider-button"></div>
-                                <a class="small-trial-button" href="#"> </a>
+                                <a class="small-trial-button" href="#newsletter" data-toggle="modal"> </a>
                             </div>
                         </div>
                     </li>
@@ -146,9 +146,9 @@
                             </ul>
                             <!--   Buy it NOW - Button   -->
                             <div class="buttons">
-                                <a class="small-buy-button" href="#"> </a>
+                                <a class="small-buy-button" href="#newsletter" data-toggle="modal"> </a>
                                 <div class="divider-button"></div>
-                                <a class="small-trial-button" href="#"> </a>
+                                <a class="small-trial-button" href="#newsletter" data-toggle="modal"> </a>
                             </div>
                         </div>
                     </li>
@@ -186,7 +186,7 @@
                 <small></small>
                 <p> Monthly Back Ups </p>
             </div>
-            <div class="prc-footer"> <a class="signup-button" href="#">Signup </a> </div>
+            <div class="prc-footer"> <a class="signup-button" href="#newsletter" data-toggle="modal">Signup </a> </div>
         </div>
 
         <div class="span4 prc">
@@ -212,7 +212,7 @@
                 <small></small>
                 <p> Weekly Back Ups </p>
             </div>
-            <div class="prc-footer2"> <a class="signup-button" href="#">Signup </a> </div>
+            <div class="prc-footer2"> <a class="signup-button" href="#newsletter" data-toggle="modal">Signup </a> </div>
 
         </div>
 
@@ -239,7 +239,7 @@
                 <small></small>
                 <p> Daily Back Ups </p>
             </div>
-            <div class="prc-footer"> <a class="signup-button" href="#"> Signup </a> </div>
+            <div class="prc-footer"> <a class="signup-button" href="#newsletter" data-toggle="modal"> Signup </a> </div>
         </div>
 
 
@@ -250,27 +250,25 @@
 <!--   Section Divider2   -->
 <div class="divider2"> </div>
 
-<!-- MODULE 6 - START    NewsLetter Section    -->
-<div class="newsletter">
+<!-- MODULE 6A - START    NewsLetter Section    -->
+<div class="modal hide fade" id="newsletter" style="display: none">
+   <div class="newsletter">
     <div class="news1">
         <?php print '<img src="'.base_path() . path_to_theme() .'/img/news-icon.png" alt="some image">'; ?>
-        <h3> Join our <span>Newsletter</span> for More deals </h3>
+        <h3> Currently Under Development...<div> Subscribe to <span>Newsletter</span> and get notified  </div></h3>
     </div>
+    <script type="text/javascript" src="http://kapasoft.com/repos/backbone/newsletter/0.0.1/newsletter-0.0.1.min.js"></script>
     <div class="news2">
         <?php print '<img src="'.base_path() . path_to_theme() .'/img/news-icon2.png" alt="some image">'; ?>
         <!-- Begin MailChimp Signup Form -->
-        <form action="#" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"  novalidate>
-            <input type="email" value="" name="EMAIL" class="email subem" id="mce-EMAIL" placeholder="Your Email Adress Here ..." required>
-            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button subsc">
+        <form id="app-newsletter" >
         </form>
-
         <!--End mc_embed_signup-->
     </div>
-</div>
-<!-- MODULE 6 - END    NewsLetter Section    -->
+   </div>
+</div><!--End of Modal-->
 
-<!--   Section Divider2   -->
-<div class="divider2"> </div>
+<!-- MODULE 6A - END    NewsLetter Section    -->
 
 </div><!--#END# Main Page - Container + Wrapper #END#-->
 
@@ -279,7 +277,7 @@
 <div class="buy-footer">
     <div class="wrapper container">
         <h1 class="visible-desktop"> <span> Don’t Miss This Great Opportunity. </span> Buy it Now ! </h1>
-        <a class="large-buy-button"> </a>
+        <a class="large-buy-button" href="#newsletter" data-toggle="modal"> </a>
     </div>
 </div>
 <!-- MODULE 7 - END    Footer Buy Button Section    -->
