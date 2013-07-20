@@ -1,10 +1,8 @@
-
 <div id="main_product">
     <div class="container wrapper">
         <div class="main_p1">
-            <h1> Your Short-Term Rentals Assistant </h1>
-            <h2> Start and increase your profits monthly by more than <span> $800 </span> </h2>
-
+            <h1> Different Vacation Rentals Software </h1>
+           <h2>Invented by vacation rentals owners like you</h2>
             <ul class="features-1 ">
 
                 <li> Add New Stream of Income </li>
@@ -12,8 +10,6 @@
                 <li> Lower Operation Costs</li>
 
             </ul>
-
-            <!-- Buy it NOW - Button -->
             <div class="buttons" id="buttons">
                 <a class="small-buy-button" href="#newsletter" data-toggle="modal"> </a>
 
@@ -24,69 +20,43 @@
             </div>
         </div>
         <div class="main_p2">
-            <?php print '<img src="'.base_path() . path_to_theme() .'/img/product-mockup/mockup1-new.png" height="391" width="376" alt="some image">'; ?>
+            <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/software-designs.png" height="391" width="376" alt="vacation rentals software designs">'; ?>
         </div>
     </div>
-
 </div>
-
-<!-- Main Page - Container - Wrapper -->
 <div class="container wrapper">
-
-<!-- Section Divider -->
 <div class="divider"> </div>
-
-
-<!-- MODULE 1 - START    Features Section    -->
 <div class="features responsive">
-
-    <!-- Section Title -->
-    <h1> Why Should You Buy!  </h1>
-
-    <!-- Section Subtitle -->
+    <h1> Why Should You Buy Vacation Rentals Software!  </h1>
     <h2> Increase profits more than <span> $800 a month ! </span> </h2>
-
-    <!-- Tabbed Slideshow -->
     <div class=" features-list tabbed_content">
-
-        <!-- Tabs   -->
         <div class="tabs"  >
             <div></div>
-
-            <!--   tab 1   -->
             <div class="fl tab_item current">
-                <?php print '<img src="'.base_path() . path_to_theme() .'/img/features-icon/icon1.png" alt="some image">'; ?>
+                <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/Vacation-Rental-Management-Software.png" alt="vacation rental management software">'; ?>
                 <h3> New Stream Of Income </h3>
                 <p> Built for Search Engines to bring new customers</p>
             </div>
-
-            <!--   tab 2   -->
             <div class="fl tab_item">
-                <?php print '<img src="'.base_path() . path_to_theme() .'/img/features-icon/icon2.png" alt="some image">'; ?>
+                <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/vacation-rental-software.png" alt="vacation rental software">'; ?>
                 <h3> Minimize Vacancy Rates </h3>
                 <p> Interactive features that convert visitors to reservations  </p>
             </div>
-
-            <!--   tab 3   -->
             <div class="fl1 tab_item">
-                <?php print '<img src="'.base_path() . path_to_theme() .'/img/features-icon/icon3.png" alt="some image">'; ?>
+                <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/vacation-rentals-websites.png" alt="vacation rentals websites">'; ?>
                 <h3> Lower Operation Costs </h3>
                 <p> Integrated with Services while automatized to save time and lower costs</p>
             </div>
             <div class="clear"> </div>
             <div class="moving_bg2"> &nbsp; </div>
 
-        </div><!--   End of Tabs   -->
-
-        <!--   Tabbed Content   -->
+        </div>
         <div class="slide_content">
             <div class="tabslider">
-
-                <!--   Tabbed Content1   -->
                 <ul>
                     <li class="featured1">
                         <div class="banner">
-                            <?php print '<img src="'.base_path() . path_to_theme() .'/img/features-icon/banner-1-new.png" alt="some image">'; ?>
+                            <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/vacation-rental-property-management.png" alt="vacation rental property management">'; ?>
                         </div>
                         <div class="banner-content">
                             <h1> New Stream of Income</h1>
@@ -105,12 +75,10 @@
                         </div>
                     </li>
                 </ul>
-
-                <!--   Tabbed Content2   -->
                 <ul>
                     <li class="featured1">
                         <div class="banner">
-                            <?php print '<img src="'.base_path() . path_to_theme() .'/img/features-icon/banner-2-new.png" alt="some image">'; ?>
+                            <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/bed-and-breakfast-software.png" alt="bed and breakfast software">'; ?>
                         </div>
                         <div class="banner-content">
                             <h1> Minimize Vacancy Rates</h1>
@@ -129,12 +97,10 @@
                         </div>
                     </li>
                 </ul>
-
-                <!--   Tabbed Content2   -->
                 <ul>
                     <li class="featured1">
                         <div class="banner">
-                            <?php print '<img src="'.base_path() . path_to_theme() .'/img/features-icon/banner-3-new.png" alt="some image">'; ?>
+                            <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/hotel-property-management-software.png" alt="hotel property management software">'; ?>
                         </div>
                         <div class="banner-content">
                             <h1> Lower Operational Costs</h1>
@@ -144,7 +110,6 @@
                                 <li> Integrated MailChimp for auto responding emails</li>
                                 <li> Interfaced with Gmail Calendar and other Services  </li>
                             </ul>
-                            <!--   Buy it NOW - Button   -->
                             <div class="buttons">
                                 <a class="small-buy-button" href="#newsletter" data-toggle="modal"> </a>
                                 <div class="divider-button"></div>
@@ -158,17 +123,10 @@
 
         </div>
     </div>
-</div> <!--   End of Tabbed Slideshow   -->
-
-<!-- MODULE 5 - START    Pricing Table Section    -->
+</div>
 <div class="responsive">
-
-    <!--   Section Title   -->
     <h1> Find Plan For You</h1>
-
-    <!--   Section Subtitle   -->
     <h2>  Choose a plan <span> Designed For You ! </span>  </h2>
-
     <div class="row-fluid pricing">
         <div class="span4 prc">
             <div class="prc-header"> <h1> Basic</h1> <p> All you need to start </p> <small> </small>  <h3>95<strong>$</strong></h3> <p> per month </p> </div>
@@ -241,43 +199,27 @@
             </div>
             <div class="prc-footer"> <a class="signup-button" href="#newsletter" data-toggle="modal"> Signup </a> </div>
         </div>
-
-
-
     </div>
 </div>
-<!-- MODULE 5 - END    Pricing Tables Section    -->
-<!--   Section Divider2   -->
 <div class="divider2"> </div>
-
-<!-- MODULE 6A - START    NewsLetter Section    -->
 <div class="modal hide fade" id="newsletter" style="display: none">
    <div class="newsletter">
     <div class="news1">
-        <?php print '<img src="'.base_path() . path_to_theme() .'/img/news-icon.png" alt="some image">'; ?>
+        <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/vacation-rentals-management-software.png" alt="vacation rental management software">'; ?>
         <h3> Currently Under Development...<div> Subscribe to <span>Newsletter</span> and get notified  </div></h3>
     </div>
-    <script type="text/javascript" src="http://kapasoft.com/repos/backbone/newsletter/0.0.1/newsletter-0.0.1.min.js"></script>
+    <script type="text/javascript" src="http://kapasoft.com/repos/backbone/newsletter/main/newsletter.min.js?ver=1"></script>
     <div class="news2">
-        <?php print '<img src="'.base_path() . path_to_theme() .'/img/news-icon2.png" alt="some image">'; ?>
-        <!-- Begin MailChimp Signup Form -->
+        <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/owners-vacation-rentals.png" alt="owners vacation rentals">'; ?>
         <form id="app-newsletter" >
         </form>
-        <!--End mc_embed_signup-->
     </div>
    </div>
-</div><!--End of Modal-->
-
-<!-- MODULE 6A - END    NewsLetter Section    -->
-
-</div><!--#END# Main Page - Container + Wrapper #END#-->
-
-
-<!-- MODULE 7 - START    Footer Buy Button Section    -->
+</div>
+</div>
 <div class="buy-footer">
     <div class="wrapper container">
         <h1 class="visible-desktop"> <span> Don’t Miss This Great Opportunity. </span> Buy it Now ! </h1>
         <a class="large-buy-button" href="#newsletter" data-toggle="modal"> </a>
     </div>
 </div>
-<!-- MODULE 7 - END    Footer Buy Button Section    -->

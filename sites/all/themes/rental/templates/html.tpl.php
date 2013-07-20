@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <!--[if IE 8 ]> <html lang="en" class="ie8"> <![endif]-->
-<!--[if (gt IE 8)]><!--> <html lang="en"> <!--<![endif]-->
+<!--[if (gt IE 8)]> <html lang="en"> <![endif]-->
 <head>
   <meta charset="utf-8">
   <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta content="yes" name="apple-mobile-web-app-capable">
-  <meta name="description" content=""/>
-  <meta name="keywords" content=""/>
+  <meta name="description" content="Vacation Rental Management Software. DECREASE VACANCIES ADD INCOME STREAM!"/>
+  <meta name="keywords" content="Property Solutions, Rental Network Software, Vacation Rental Property Management Software, vacation rentals management, owners vacation rentals, vacation rentals websites, vacation rental websites, vacation rentals software, vacation rental software, vacation rental property management, hotel property management software, bed and breakfast software, vacation rental management software, vacation rental management, b & b software"/>
   <?php print $head; ?>
-  <title><?php print $head_title; ?></title>
+  <title>Vacation Rentals Management Software</title>
    <?php print '<script>';
    print 'var MIN_CONFIG = (function () {';
       print 'var viewDriverHost = "'.$interfaceConfig['driver_url'].'";';
