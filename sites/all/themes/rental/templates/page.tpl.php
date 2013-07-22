@@ -1,51 +1,44 @@
 <div id="main_product">
     <div class="container wrapper">
         <div class="main_p1">
-            <h1> Different Vacation Rentals Software </h1>
-           <h2>Invented by vacation rentals owners like you</h2>
+            <h1> Effective Way Get Money Back </h1>
+           <h2>Reputation is most important thing even for your debtor</h2>
             <ul class="features-1 ">
-
-                <li> Add New Stream of Income </li>
-                <li> Minimize Vacancy Rates</li>
-                <li> Lower Operation Costs</li>
-
+                <li> Everyone checks on someone by typing name in google search</li>
+                <li> In past, debts were published in newspaper as means to collect</li>
+                <li> Today we publish it internet for anyone anywhere and forever </li>
             </ul>
             <div class="buttons" id="buttons">
-                <a class="small-buy-button" href="#newsletter" data-toggle="modal"> </a>
-
-                <div class="divider-button"></div>
-
-                <a class="small-trial-button" href="#newsletter" data-toggle="modal"> </a>
-
+                <a class="signup-button" href="#newsletter" data-toggle="modal"> Start Now! </a>
             </div>
         </div>
         <div class="main_p2">
-            <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/software-designs.png" height="391" width="376" alt="vacation rentals software designs">'; ?>
+            <?php print '<img src="'.base_path() . path_to_theme() .'/img/get-my-money-back/money-get-back.png" height="391" width="376" alt="money get back">'; ?>
         </div>
     </div>
 </div>
 <div class="container wrapper">
 <div class="divider"> </div>
 <div class="features responsive">
-    <h1> Why Should You Buy Vacation Rentals Software!  </h1>
-    <h2> Increase profits more than <span> $800 a month ! </span> </h2>
+    <h1> How it works!  </h1>
+    <h2> Bad reputation  <span> matters more than </span> credit report or claim </h2>
     <div class=" features-list tabbed_content">
         <div class="tabs"  >
             <div></div>
             <div class="fl tab_item current">
-                <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/Vacation-Rental-Management-Software.png" alt="vacation rental management software">'; ?>
-                <h3> New Stream Of Income </h3>
-                <p> Built for Search Engines to bring new customers</p>
+                <?php print '<img src="'.base_path() . path_to_theme() .'/img/get-my-money-back/bounced-check.png" alt="bounced check">'; ?>
+                <h3> Looking Up On Internet </h3>
+                <p> Everyone checks on someone regularly by typing their name in google search</p>
             </div>
             <div class="fl tab_item">
-                <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/vacation-rental-software.png" alt="vacation rental software">'; ?>
-                <h3> Minimize Vacancy Rates </h3>
-                <p> Interactive features that convert visitors to reservations  </p>
+                <?php print '<img src="'.base_path() . path_to_theme() .'/img/get-my-money-back/how-to-get-money-back-from-a-friend.png" alt="hot to get money back from a friend">'; ?>
+                <h3> Making It Public </h3>
+                <p> Unpaid balance along debtor info returns when searched by their name </p>
             </div>
             <div class="fl1 tab_item">
-                <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/vacation-rentals-websites.png" alt="vacation rentals websites">'; ?>
-                <h3> Lower Operation Costs </h3>
-                <p> Integrated with Services while automatized to save time and lower costs</p>
+                <?php print '<img src="'.base_path() . path_to_theme() .'/img/get-my-money-back/overdue-invoice.png" alt="overdue invoice">'; ?>
+                <h3> Receive Money Back </h3>
+                <p> To save reputation debtor returns your money and the publication is removed from internet </p>
             </div>
             <div class="clear"> </div>
             <div class="moving_bg2"> &nbsp; </div>
@@ -56,21 +49,39 @@
                 <ul>
                     <li class="featured1">
                         <div class="banner">
-                            <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/vacation-rental-property-management.png" alt="vacation rental property management">'; ?>
+                            <?php print '<img src="'.base_path() . path_to_theme() .'/img/get-my-money-back/unpaid-salary.png" alt="unpaid salary">'; ?>
                         </div>
                         <div class="banner-content">
-                            <h1> New Stream of Income</h1>
-                            <h2> Built for Search Engines to <span>bring new customers</span></h2>
+                            <h1> Looking Up On Internet</h1>
+                            <h2> Search engines used for <span>more than you think</span></h2>
                             <ul class="features-2 ">
-                                <li> Multiple views each tailored different customer segment</li>
-                                <li> Search Engine optimized with many technics built in </li>
-                                <li> Selection of beautiful designs that resonates with customers </li>
+                                <li> Family members search to see how you doing</li>
+                                <li> Friends search to find what type of person you are </li>
+                                <li> Businesses search to learn how earnest you are </li>
                             </ul>
                             <!--   Buy it NOW - Button   -->
                             <div class="buttons">
-                                <a class="small-buy-button" href="#newsletter" data-toggle="modal"> </a>
-                                <div class="divider-button"></div>
-                                <a class="small-trial-button" href="#newsletter" data-toggle="modal"> </a>
+                                <a class="signup-button" href="#newsletter" data-toggle="modal"> Start now! </a>
+                             </div>
+                        </div>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="featured1">
+                        <div class="banner">
+                            <?php print '<img src="'.base_path() . path_to_theme() .'/img/get-my-money-back/bad-check.png" alt="bad check">'; ?>
+                        </div>
+                        <div class="banner-content">
+                            <h1> Making It Public</h1>
+                            <h2> Published internet it becomes public <span> forever and anywhere</span></h2>
+                            <ul class="features-2 ">
+                                <li> Unpaid balance along debtor info are published on Internet </li>
+                                <li> The publication is optimize for major search engines </li>
+                                <li> The publication appears in search results for anyone</li>
+                            </ul>
+                            <!--   Buy it NOW - Button   -->
+                            <div class="buttons">
+                                <a class="signup-button" href="#newsletter" data-toggle="modal"> Start now! </a>
                             </div>
                         </div>
                     </li>
@@ -78,42 +89,18 @@
                 <ul>
                     <li class="featured1">
                         <div class="banner">
-                            <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/bed-and-breakfast-software.png" alt="bed and breakfast software">'; ?>
+                            <?php print '<img src="'.base_path() . path_to_theme() .'/img/get-my-money-back/the-debt-collector.png" alt="the-debt-collector">'; ?>
                         </div>
                         <div class="banner-content">
-                            <h1> Minimize Vacancy Rates</h1>
-                            <h2> Interactive features that <span>convert visitors to reservations</span></h2>
+                            <h1> Receive Money Back</h1>
+                            <h2> To save reputation <span>money is returned to you</span></h2>
                             <ul class="features-2 ">
-                                <li> Turn on and off last minute deals as you wish </li>
-                                <li> Enable multiple visitors act together real time for group discounts </li>
-                                <li> Negotiate rates with customers on your site while you are busy</li>
-                            </ul>
-                            <!--   Buy it NOW - Button   -->
-                            <div class="buttons">
-                                <a class="small-buy-button" href="#newsletter" data-toggle="modal"> </a>
-                                <div class="divider-button"></div>
-                                <a class="small-trial-button" href="#newsletter" data-toggle="modal"> </a>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="featured1">
-                        <div class="banner">
-                            <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/hotel-property-management-software.png" alt="hotel property management software">'; ?>
-                        </div>
-                        <div class="banner-content">
-                            <h1> Lower Operational Costs</h1>
-                            <h2> Integrated and automatized to <span>save time and lower costs</span></h2>
-                            <ul class="features-2 ">
-                                <li> Build with online calendar and online booking</li>
-                                <li> Integrated MailChimp for auto responding emails</li>
-                                <li> Interfaced with Gmail Calendar and other Services  </li>
+                                <li> Debtor is informed about the publication in internet</li>
+                                <li> To save reputation, debtor returns your money</li>
+                                <li> The publication is removed from internet  </li>
                             </ul>
                             <div class="buttons">
-                                <a class="small-buy-button" href="#newsletter" data-toggle="modal"> </a>
-                                <div class="divider-button"></div>
-                                <a class="small-trial-button" href="#newsletter" data-toggle="modal"> </a>
+                                <a class="signup-button" href="#newsletter" data-toggle="modal"> Start now! </a>
                             </div>
                         </div>
                     </li>
@@ -129,88 +116,90 @@
     <h2>  Choose a plan <span> Designed For You ! </span>  </h2>
     <div class="row-fluid pricing">
         <div class="span4 prc">
-            <div class="prc-header"> <h1> Basic</h1> <p> All you need to start </p> <small> </small>  <h3>95<strong>$</strong></h3> <p> per month </p> </div>
+            <div class="prc-header"> <h1> Basic </h1> <p> All you need to start </p> <small> </small>  <h3>50 <strong>$</strong></h3> <p>setup fee</p> </div>
             <div class="prc-body">
-                <p> One Design </p>
+                <p> Single Publication </p>
                 <small></small>
-                <p> Up to 1 Interface </p>
-                <span>Drupal / WordPress</span>
+                <p> 3 Designs Select From </p>
                 <small></small>
-                <p> 6 pages </p>
+                <p> One Photo </p>
                 <small></small>
-                <p> 1 Contact Form </p>
+                <p> One Domain Name </p>
                 <small></small>
-                <p> Shared Cloud Hosting </p>
+                <p> Search Engine Optimized </p>
                 <small></small>
-                <p> Monthly Back Ups </p>
+                <p> 1 Online payment widget </p>
+                <small></small>
+                <p> Ability Update Publication </p>
+                <small></small>
+                <p> $5 per month maintenance fee</p>
+                <span>to keep published</span>
             </div>
-            <div class="prc-footer"> <a class="signup-button" href="#newsletter" data-toggle="modal">Signup </a> </div>
+            <div class="prc-footer"> <a class="signup-button" href="#newsletter" data-toggle="modal"> Start now! </a> </div>
         </div>
 
         <div class="span4 prc">
-            <div class="prc-header2"> <h1> Plus</h1> <p> All you need to start </p> <small> </small>  <h3>195<strong>$</strong></h3> <p> per month </p> </div>
+            <div class="prc-header2"> <h1> Plus </h1> <p> All you need to start </p> <small> </small>  <h3>100<strong>$</strong></h3> <p> setup fee </p> </div>
             <div class="prc-body">
-                <p> Three Designs </p>
+                <p> Two Publications </p>
                 <small></small>
-                <p> Up to 3 Interfaces </p>
-                <span>Drupal / WordPress / Custom</span>
+                <p> 6 Designs Select From</p>
                 <small></small>
-                <p> 1 Interactive Feature  </p>
-                <span>email campaign / reservations / other</span>
+                <p> Three Photos </p>
                 <small></small>
-                <p> 1 SaaS Integration </p>
-                <span>ChimpMail / SalesForce / other</span>
+                <p> Two Domain Names </p>
+                <span></span>
                 <small></small>
-                <p> Single Back Office  </p>
-                <span>(app for business operations)</span>
+                <p> Search Engine Optimized  </p>
+                <span></span>
                 <small></small>
-                <p> Separate Instance Cloud Hosting </p>
+                <p> 2 Online payment widgets </p>
                 <small></small>
-                <p> Monthly SEO Optimization </p>
+                <p> Ability Update Publications </p>
                 <small></small>
-                <p> Weekly Back Ups </p>
+                <p> $10 per month maintenance fee</p>
+                <span>to keep published</span>
             </div>
-            <div class="prc-footer2"> <a class="signup-button" href="#newsletter" data-toggle="modal">Signup </a> </div>
-
+            <div class="prc-footer2"> <a class="signup-button" href="#newsletter" data-toggle="modal"> Start now! </a> </div>
         </div>
-
         <div class="span4 prc">
-            <div class="prc-header"> <h1>Unlimited</h1> <p> All you need to start </p> <small> </small>  <h3>295<strong>$</strong></h3> <p> per month </p> </div>
+            <div class="prc-header"> <h1>Unlimited</h1> <p> All you need to start </p> <small> </small>  <h3>150<strong>$</strong></h3> <p> setup fee </p> </div>
             <div class="prc-body">
-                <p> Unlimited Designs </p>
+                <p> Three Publications </p>
                 <small></small>
-                <p> Unlimited Interfaces </p>
-                <span>Drupal / WordPress / Custom</span>
+                <p> 10 Designs Select From</p>
                 <small></small>
-                <p> 3 Interactive Feature  </p>
-                <span>email campaign / reservations / other</span>
+                <p> Three Photos </p>
                 <small></small>
-                <p> 3 SaaS Integration </p>
-                <span>ChimpMail / SalesForce / other</span>
+                <p> One Video </p>
                 <small></small>
-                <p> Single Back Office  </p>
-                <span>(app for business operations)</span>
+                <p> Three Domain Names </p>
                 <small></small>
-                <p> Multiple Instance Cloud Hosting </p>
+                <p> Search Engine Optimized </p>
                 <small></small>
-                <p> Weekly SEO Optimization </p>
+                <p> 3 Online Payment Widgets </p>
                 <small></small>
-                <p> Daily Back Ups </p>
+                <p> Ability Update Publications </p>
+                <small></small>
+                <p> $20 per month maintenance fee</p>
+                <span>to keep published</span>
             </div>
-            <div class="prc-footer"> <a class="signup-button" href="#newsletter" data-toggle="modal"> Signup </a> </div>
+            <div class="prc-footer"><a class="signup-button" href="#newsletter" data-toggle="modal"> Start now! </a> </div>
         </div>
+        <p>***The other half is going to be collected from your debtor at the time your money is received</p>
     </div>
 </div>
 <div class="divider2"> </div>
 <div class="modal hide fade" id="newsletter" style="display: none">
    <div class="newsletter">
     <div class="news1">
-        <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/vacation-rentals-management-software.png" alt="vacation rental management software">'; ?>
-        <h3> Currently Under Development...<div> Subscribe to <span>Newsletter</span> and get notified  </div></h3>
+        <?php print '<img src="'.base_path() . path_to_theme() .'/img/get-my-money-back/sue-tenant-for-unpaid-rent.png" alt="vacation rental management software">'; ?>
+        <h3> Leave Your Email...<div> And we will <span>contact you</span> to proceed  </div></h3>
     </div>
+
     <script type="text/javascript" src="http://kapasoft.com/repos/backbone/newsletter/main/newsletter.min.js?ver=1"></script>
     <div class="news2">
-        <?php print '<img src="'.base_path() . path_to_theme() .'/img/vacation-rentals/owners-vacation-rentals.png" alt="owners vacation rentals">'; ?>
+        <?php print '<img src="'.base_path() . path_to_theme() .'/img/get-my-money-back/rent-collect.png" alt="owners vacation rentals">'; ?>
         <form id="app-newsletter" >
         </form>
     </div>
@@ -219,7 +208,7 @@
 </div>
 <div class="buy-footer">
     <div class="wrapper container">
-        <h1 class="visible-desktop"> <span> Don’t Miss This Great Opportunity. </span> Buy it Now ! </h1>
-        <a class="large-buy-button" href="#newsletter" data-toggle="modal"> </a>
+        <h1 class="visible-desktop"> <span> Don’t Wait To Get Money Back.</span>&nbsp;&nbsp;Start Now ! </h1>
+        <a class="signup-button" href="#newsletter" data-toggle="modal"> Start now! </a> </a>
     </div>
 </div>

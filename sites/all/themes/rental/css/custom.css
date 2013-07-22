@@ -40,3 +40,19 @@
     -webkit-box-shadow: 0 0 50px #ccc;
  }
 
+
+/*********Start Now***********/
+a.signup-button {
+    font-weight: 100;
+    font-size:17px;
+    /*line-height: 21px;*/
+    letter-spacing:1px;
+}
+a.signup-button:hover {
+
+}
+
+/**LOgo*****/
+.logo{
+    width: 400px;
+}

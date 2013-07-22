@@ -7,15 +7,22 @@
   <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta content="yes" name="apple-mobile-web-app-capable">
-  <meta name="description" content="Vacation Rental Management Software. DECREASE VACANCIES ADD INCOME STREAM!"/>
-  <meta name="keywords" content="Property Solutions, Rental Network Software, Vacation Rental Property Management Software, vacation rentals management, owners vacation rentals, vacation rentals websites, vacation rental websites, vacation rentals software, vacation rental software, vacation rental property management, hotel property management software, bed and breakfast software, vacation rental management software, vacation rental management, b & b software"/>
+  <meta name="description" content="Unpaid Payment, Bounced Check, Unpaid Salary, Not Paying Rent EFFECTIVE WAY GET MONEY BACK!"/>
+  <meta name="keywords" content="money get back, overdue payments, bad check laws, get my money back, bounced check, how to get money back from a friend, can i get my money back, how to get your money back, overdue invoice, rent collect, bad check, collecting rent, tenant failure to pay rent"/>
   <?php print $head; ?>
-  <title>Vacation Rentals Management Software</title>
+  <title>Get My Money Back</title>
+    <script>
+        var NEWSLETTER = (function () {
+            return {
+                message: 'Thank You. We will contact you shortly',
+                button: 'Start Now'
+            };
+        }());
+    </script>
    <?php print '<script>';
    print 'var MIN_CONFIG = (function () {';
       print 'var viewDriverHost = "'.$interfaceConfig['driver_url'].'";';
       print 'var viewDriverPort = "'.$interfaceConfig['driver_port'].'";';
-//implement the public part
       print 'return {';
           print 'getDriverUrl: function () {';
              print "return 'http://' + viewDriverHost + ':' + viewDriverPort;";

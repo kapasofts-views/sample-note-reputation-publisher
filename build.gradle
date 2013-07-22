@@ -1,7 +1,7 @@
 
-def user="rental"
+def user="rep_debt"
 def pass="38394815"
-def db="rental_manger_view_drupal"
+def db="rep_debt_collect"
 def today = new Date().format('MMMdd_yyyy')
 
 task backupFromShell(type:Exec) {

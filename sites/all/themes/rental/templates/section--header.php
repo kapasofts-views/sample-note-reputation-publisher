@@ -2,8 +2,8 @@
     <div class="container wrapper">
         <div class="logo">
             <hgroup>
-                <h1>Rental's Partner</h1>
-                <h2>Vacation Rentals Software</h2>
+                <h1>Want My Bucks Back</h1>
+                <h2>Reputation Debt Collector</h2>
             </hgroup>
         </div>
     </div>
