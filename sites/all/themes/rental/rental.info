@@ -22,7 +22,7 @@ regions[article_menu] = "Article Menu"
 stylesheets[all][] = css/bootstrap.css
 stylesheets[all][] = css/bootstrap-responsive.css
 stylesheets[all][] = css/styles.css
-stylesheets[all][] = css/skins/purple.css
+stylesheets[all][] = css/skins/orange.css
 stylesheets[all][] = css/custom.css
 
 

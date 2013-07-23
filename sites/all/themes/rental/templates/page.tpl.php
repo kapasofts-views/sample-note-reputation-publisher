@@ -116,7 +116,7 @@
     <h2>  Choose a plan <span> Designed For You ! </span>  </h2>
     <div class="row-fluid pricing">
         <div class="span4 prc">
-            <div class="prc-header"> <h1> Basic </h1> <p> All you need to start </p> <small> </small>  <h3>50 <strong>$</strong></h3> <p>setup fee</p> </div>
+            <div class="prc-header"> <h1> Basic </h1> <p> All you need to start </p> <small> </small>  <h3>75 <strong>$</strong></h3> <p>setup fee</p> </div>
             <div class="prc-body">
                 <p> Single Publication </p>
                 <small></small>
@@ -132,14 +132,14 @@
                 <small></small>
                 <p> Ability Update Publication </p>
                 <small></small>
-                <p> $5 per month maintenance fee</p>
+                <p> $10 per month maintenance fee</p>
                 <span>to keep published</span>
             </div>
             <div class="prc-footer"> <a class="signup-button" href="#newsletter" data-toggle="modal"> Start now! </a> </div>
         </div>
 
         <div class="span4 prc">
-            <div class="prc-header2"> <h1> Plus </h1> <p> All you need to start </p> <small> </small>  <h3>100<strong>$</strong></h3> <p> setup fee </p> </div>
+            <div class="prc-header2"> <h1> Plus </h1> <p> All you need to start </p> <small> </small>  <h3>125<strong>$</strong></h3> <p> setup fee </p> </div>
             <div class="prc-body">
                 <p> Two Publications </p>
                 <small></small>
@@ -157,13 +157,13 @@
                 <small></small>
                 <p> Ability Update Publications </p>
                 <small></small>
-                <p> $10 per month maintenance fee</p>
+                <p> $15 per month maintenance fee</p>
                 <span>to keep published</span>
             </div>
             <div class="prc-footer2"> <a class="signup-button" href="#newsletter" data-toggle="modal"> Start now! </a> </div>
         </div>
         <div class="span4 prc">
-            <div class="prc-header"> <h1>Unlimited</h1> <p> All you need to start </p> <small> </small>  <h3>150<strong>$</strong></h3> <p> setup fee </p> </div>
+            <div class="prc-header"> <h1>Unlimited</h1> <p> All you need to start </p> <small> </small>  <h3>200<strong>$</strong></h3> <p> setup fee </p> </div>
             <div class="prc-body">
                 <p> Three Publications </p>
                 <small></small>
@@ -181,7 +181,7 @@
                 <small></small>
                 <p> Ability Update Publications </p>
                 <small></small>
-                <p> $20 per month maintenance fee</p>
+                <p> $25 per month maintenance fee</p>
                 <span>to keep published</span>
             </div>
             <div class="prc-footer"><a class="signup-button" href="#newsletter" data-toggle="modal"> Start now! </a> </div>
