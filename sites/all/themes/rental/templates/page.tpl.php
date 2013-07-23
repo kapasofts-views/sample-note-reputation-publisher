@@ -122,13 +122,12 @@
                 <small></small>
                 <p> 3 Designs Select From </p>
                 <small></small>
-                <p> One Photo </p>
-                <small></small>
-                <p> One Domain Name </p>
+                <p> One Image </p>
+                <span>supporting documentation</span>
                 <small></small>
                 <p> Search Engine Optimized </p>
                 <small></small>
-                <p> 1 Online payment widget </p>
+                <p> Online payment widget </p>
                 <small></small>
                 <p> Ability Update Publication </p>
                 <small></small>
@@ -141,19 +140,17 @@
         <div class="span4 prc">
             <div class="prc-header2"> <h1> Plus </h1> <p> All you need to start </p> <small> </small>  <h3>125<strong>$</strong></h3> <p> setup fee </p> </div>
             <div class="prc-body">
-                <p> Two Publications </p>
+                <p>Single Publication </p>
                 <small></small>
                 <p> 6 Designs Select From</p>
                 <small></small>
-                <p> Three Photos </p>
-                <small></small>
-                <p> Two Domain Names </p>
-                <span></span>
+                <p> Two Images </p>
+                <span>supporting documentation</span>
                 <small></small>
                 <p> Search Engine Optimized  </p>
                 <span></span>
                 <small></small>
-                <p> 2 Online payment widgets </p>
+                <p> Online payment widget </p>
                 <small></small>
                 <p> Ability Update Publications </p>
                 <small></small>
@@ -165,19 +162,18 @@
         <div class="span4 prc">
             <div class="prc-header"> <h1>Unlimited</h1> <p> All you need to start </p> <small> </small>  <h3>200<strong>$</strong></h3> <p> setup fee </p> </div>
             <div class="prc-body">
-                <p> Three Publications </p>
+                <p> Two Publications </p>
                 <small></small>
                 <p> 10 Designs Select From</p>
                 <small></small>
-                <p> Three Photos </p>
+                <p> Three Images </p>
+                <span>supporting documentation</span>
                 <small></small>
                 <p> One Video </p>
                 <small></small>
-                <p> Three Domain Names </p>
-                <small></small>
                 <p> Search Engine Optimized </p>
                 <small></small>
-                <p> 3 Online Payment Widgets </p>
+                <p> 2 Online Payment Widgets </p>
                 <small></small>
                 <p> Ability Update Publications </p>
                 <small></small>
