@@ -1,7 +1,7 @@
 
-def user="rep_debt"
+def user="note_publisher"
 def pass="38394815"
-def db="rep_debt_collect"
+def db="publisher_note_view"
 def today = new Date().format('MMMdd_yyyy')
 
 task backupFromShell(type:Exec) {

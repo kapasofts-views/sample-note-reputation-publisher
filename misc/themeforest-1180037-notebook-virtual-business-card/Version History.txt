@@ -1,0 +1,19 @@
+Version 1.1.2
+ - Changed comments from using # to using * since that caused problems when hosting the site on GoDaddy.
+
+Version 1.1.1
+ - Fixed problem with menu not showing on mobile devices.
+
+Version 1.1
+ - Added 8 backgrounds
+ - Fixed horizontal alignment on front page
+ - Ficed horizontal alignment of tape
+
+Version 1.0.1
+ - Added icon and fixed padding of message sent.
+ - Added loading of Google font "Pacifico".
+ - Renamed js/custom.js to js/notebook.js.
+ - Added css/custom.css for overriding main stylesheet.
+
+Version 1.0
+ - First release.

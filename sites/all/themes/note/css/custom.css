@@ -1,0 +1,52 @@
+
+/* Use this file to override style.css */
+
+.dl-horizontal dt{
+    width:80px;
+}
+
+.dl-horizontal dd{
+    margin-left:90px;
+}
+
+header{
+    margin-bottom: 0px;
+}
+
+div#app-contact input, div#app-contact textarea{
+    /*display:block;*/
+    /*width:200px;*/
+}
+
+/**********PopUp Newsletter**********/
+
+#zinojums{
+    width:800px;
+    background:url(../img/bg/patterns/brushed_alu.png) repeat;
+    padding: 20px;
+    /*height: 300px;*/
+}
+
+.modal{
+    left:33%;
+    background-color: transparent;
+}
+
+.subscribe-popup {
+    background-color:#000000;
+    display:none;
+    width:350px;
+    padding:15px;
+    text-align:left;
+    border:2px solid #333;
+
+    opacity:0.8;
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px;
+    -moz-box-shadow: 0 0 50px #ccc;
+    -webkit-box-shadow: 0 0 50px #ccc;
+}
+
+a.b-nonemt{
+    text-decoration:none;
+}
