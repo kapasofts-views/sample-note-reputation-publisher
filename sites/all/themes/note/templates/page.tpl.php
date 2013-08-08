@@ -6,8 +6,7 @@
             <h2><i>Informējam:</i> Aleksandra Dementjeva nav nokārtojusi finansiālās saistības un NAV uzticības cienīga</h2>
         </hgroup>
         <?php print '<a href="'.base_path() . path_to_theme() .'/img/Aleksandra_Dementjeva_Portrets.jpg" data-rel="prettyPhoto" title="Aleksandra Dementjeva Parādā"><img class="border center" src="'.base_path() . path_to_theme() .'/img/Aleksandra_Dementjeva_Portrets.jpg" width="93" height="105" alt="Aleksandra Dementjeva Nav nokārtojusi Finansiālās saistības" /></a>';?>
-        <p><a role="button" class="b-nonemt btn btn-inverse" href="#zinojums" data-toggle="modal">Kā Noņemt Šo Publikāciju?</a>
-        </p>
+        <a role="button" class="b-nonemt btn btn-inverse" style="position: relative; top: -60px" href="#zinojums" data-toggle="modal">Kā Noņemt Šo Publikāciju?</a>
     </div>
 </div>
 <div id="about-me">
