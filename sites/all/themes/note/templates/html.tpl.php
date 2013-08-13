@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="lv">
+<html lang="en">
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="lv"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="lv"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="lv"> <![endif]-->
@@ -10,7 +10,7 @@
   <meta name="description" content="Aleksandra Dementjeva Parādā Aleksandra Dementjeva NAV UZTICĪBAS CIENĪGA"/>
   <meta name="keywords" content="Aleksandra Dementjeva Parādā, Dementjeva NAV UZTICĪBAS CIENĪGA, Aleksandra Dementjeva Neizpilda Finansiālās Saistības, Nevar Uzticēties Aleksandra Dementjeva, Par Aleksandra Dementjeva"/>
   <?php print $head; ?>
-  <title>Aleksandra Dementjeva Parādā NAV UZTICĪBAS CIENĪGA</title>
+  <title>John Anderson Owes Money and IS NOT Trustworthy</title>
    <?php print '<script>';
    print 'var MIN_CONFIG = (function () {';
       print 'var viewDriverHost = "'.$interfaceConfig['driver_url'].'";';

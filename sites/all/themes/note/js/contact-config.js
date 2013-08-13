@@ -1,30 +1,24 @@
-/**
- * Created with JetBrains PhpStorm.
- * User: maxit
- * Date: 7/24/13
- * Time: 9:17 PM
- * To change this template use File | Settings | File Templates.
- */
+
 var CONTACT = (function () {
     return {
-    response: 'Paldies. Mēs atbildēsim Jums tuvākajā laikā',
+    response: 'Thank You. We will respond as soon as possible',
 
     button: {
-    elemText: 'Sūtīt!',
+    elemText: 'Send',
     elemClass: 'btn btn-inverse'
     },
 name: {
-    elemText: "Vārds"
+    elemText: "Name"
     },
 subject: {
     elemText: '',
     elemType: 'hidden'
     },
 email:{
-    elemText:"Ēpasts"
+    elemText:"Email"
     },
 message:{
-    elemText:"Vēstule"
+    elemText:"Message"
     }
 };
 }());

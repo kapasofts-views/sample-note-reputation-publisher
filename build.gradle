@@ -1,7 +1,7 @@
 
-def user="note_publisher"
+def user="sample_note_user"
 def pass="38394815"
-def db="publisher_note_view"
+def db="sample_note"
 def today = new Date().format('MMMdd_yyyy')
 
 task backupFromShell(type:Exec) {
